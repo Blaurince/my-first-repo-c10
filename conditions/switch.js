@@ -16,3 +16,5 @@ switch(pet){
     default:
         console.log("cool pet")
 }
+
+console.log(pet)
